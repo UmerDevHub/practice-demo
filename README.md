@@ -1,2 +1,2 @@
 # practice-demo
-just for practice.
+Just for practice.
